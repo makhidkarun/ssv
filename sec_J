@@ -1,0 +1,144 @@
+@SUB-SECTOR: Sworld Worlds(J)   SECTOR: Spinward Marches
+#
+# Trade routes within the subsector
+#src. dst.  X Y dst. offsets
+$0921 0922  0 0
+$0922 1424  0 0
+$1524 0927  0 0
+$1522 1526  0 0
+$1526 1329  0 0
+$1329 0930  0 0
+$0930 0732 -1 1
+$1526 1824  1 0
+#
+# Borders or political boundaries
+^0921 0
+^0921 1
+^0921 5
+^0921 4
+^0922 5
+^0922 4
+^0923 5
+^0923 4
+^0924 5
+^0924 4
+^0925 5
+^0925 4
+^0926 5
+^0926 4
+^0927 5
+^0927 4
+^0928 5
+^0928 4
+^0928 3
+^1021 0
+^1121 5
+^1121 0
+^1121 1
+^1221 0
+^1221 1
+^1221 2
+^1222 1
+^1222 2
+^1223 1
+^1223 2
+^1224 1
+^1224 2
+^1225 1
+^1225 2
+^1226 1
+^1226 2
+^1227 1
+^1227 2
+^1227 3
+^1321 2
+^1321 3
+^1421 0
+^1421 1
+^1521 0
+^1521 1
+^1522 0
+^1522 1
+^1522 2
+^1523 1
+^1523 2
+^1524 1
+^1524 2
+^1525 1
+^1525 2
+^1526 1
+^1621 0
+^1621 1
+^1626 0
+^1626 1
+^1626 2
+^1627 1
+^1627 2
+^1628 1
+^1628 2
+^1628 3
+^1529 2
+^1529 3
+^1529 4
+^1529 5
+^1428 0
+^1428 1
+^1428 3
+^1428 4
+^1328 0
+^1328 1
+^1328 3
+^1228 5
+^1228 4
+^1228 2
+^1229 5
+^1229 4
+^1229 2
+^1229 1
+^1230 5
+^1230 1
+^1130 5
+^1130 4
+^1130 3
+^1029 0
+^1029 1
+^0929 1
+^1330 3
+^1430 4
+^1430 3
+^1430 2
+^1530 3
+^1630 3
+^1630 4
+#
+#--------1---------2---------3---------4---------5---------6---------7
+#PlanetName   Loc. UPP Code   B   Notes         Z  PBG Al. Star(s)
+#----------   ---- ---------  - --------------- -  --- -- ---------
+Hrunting      0921 B463747-9  M Ri                 313 Sw M2 V
+Tizon         0922 B386887-A  M Ri                 323 Sw K2 VI M3 D
+Narsil        0927 B574A55-A  M Hi In              224 Sw M0 II M6 D
+Flammarion    0930 A623514-B  B Ni Po              710 Im F8 V
+Colada        1022 B364685-B  M Ag Ni Ri        A  211 Sw K2 V M8 D
+Anduril       1026 B985855-B  M Ri                 222 Sw F2 V
+Mjolnir       1121 B530544-A  M Ni Po De           522 Sw A5 V G0 D
+Joyeuse       1123 B464778-A  M Ag Ri           A  201 Sw M3 V M9 D
+Orcrist       1126 B8A6733-A  M Fl                 401 Sw M7 V M7 D
+Enos          1130 E25059B-4  M Ni Po De           710 Sw M9 V
+Gungnir       1221 B444779-8  M Ag                 432 Sw G3 VI M4 VI
+Gram          1223 A895957-B  M Hi In Cp           603 Sw F2 D M2 D
+Excalibur     1225 B324755-A  M                    402 Sw M5 V
+Tyrfing       1324 B637735-A  M                    701 Bw M4 V
+Sacnoth       1325 B775956-C  M Hi In              801 Bw F9 V M8 D
+Caladbolg     1329 B365776-A  S Ag Ri              710 Im F7 V M0 D M4 D
+Beater        1424 B685686-A  M Ag Ni Ri           610 Bw M4 V
+Gunn          1429 E344110-8    Lo Ni           A  602 Im M6 V
+Caliburn      1430 E000514-A    Ni As              924 Im M7 VI
+Dyrnwyn       1522 B958412-A  M Ni                 201 Bw M4 V M8 D
+Durendal      1523 B687334-B  M Lo Ni              714 Bw M1 V
+Hofud         1524 B666553-A  M Ag Ni              501 Bw M4 V M9 D
+Sting         1525 B645896-A  M                    302 Bw M0 V
+Biter         1526 B354623-A  M Ag Ni              301 Bw M7 V M1 D
+Steel         1529 E655000-7    Lo Ni Ba           324 Bw M8 III
+Iron          1626 E529000-9    Lo Ni Ba           714 Bw F0 V
+Bronze        1627 E201000-9    Lo Ni Va Ic Ba     510 Bw M3 V
+Mithril       1628 E568000-7    Lo Ni Ba           301 Bw F4 D
